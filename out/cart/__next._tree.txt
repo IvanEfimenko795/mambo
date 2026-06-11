@@ -1,0 +1,2 @@
+:HL["/ivanefimenko795-mambo/_next/static/chunks/5d84b31fa7f088cf.css","style"]
+0:{"buildId":"zu5DC28Dc5I1FK2u-8CIh","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"cart","paramType":null,"paramKey":"cart","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
