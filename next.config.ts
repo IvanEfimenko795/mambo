@@ -1,11 +1,10 @@
 import type { NextConfig } from 'next';
 
-const repoName = 'ivanefimenko795-mambo';
+const repoName = 'mambo';
 const isGithubPages = process.env.GITHUB_PAGES === 'true';
 
 const nextConfig: NextConfig = {
   output: 'export',
-
   trailingSlash: true,
 
   images: {
