@@ -1,0 +1,6 @@
+:HL["/_next/static/chunks/5d84b31fa7f088cf.css","style"]
+:HL["https://ultradruk.com/wp-content/uploads/2020/07/ultra-futbolka-muzhskaya-chernaya.png","image"]
+:HL["https://pullup.com.ua/wp-content/uploads/2024/05/futbolky-oversize-daral8.webp","image"]
+:HL["https://toptime.com.ua/photos/products/awjh003/awjh003_AWH-FN.jpg","image"]
+:HL["https://cdn.jolybell.com/images/kz262otd618jvzx.png?width=449&height=540&quality=90","image"]
+0:{"buildId":"2OTQ_1ILkqsCVGPM-VV3r","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

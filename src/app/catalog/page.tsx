@@ -2,27 +2,13 @@ import { FiltersPanel } from "@/components/shop/FiltersPanel";
 import { ProductCard } from "@/components/shop/ProductCard";
 import { filterProducts } from "@/lib/mock-data";
 
-type CatalogSearchParams = Promise<{
-  q?: string;
-  category?: string;
-  color?: string;
-  size?: string;
-  sort?: "newest" | "price-asc" | "price-desc" | "name";
-}>;
-
-type Props = {
-  searchParams: CatalogSearchParams;
-};
-
-export default async function CatalogPage({ searchParams }: Props) {
-  const sp = await searchParams;
-
+export default function CatalogPage() {
   const current = {
-    q: sp?.q ?? "",
-    category: sp?.category ?? "",
-    color: sp?.color ?? "",
-    size: sp?.size ?? "",
-    sort: sp?.sort ?? "newest",
+    q: "",
+    category: "",
+    color: "",
+    size: "",
+    sort: "newest" as const,
   };
 
   const products = filterProducts(current);
@@ -57,7 +43,7 @@ export default async function CatalogPage({ searchParams }: Props) {
               ))}
             </div>
           )}
-        </section>
+            </section>
       </div>
     </div>
   );

@@ -1,11 +1,17 @@
 import { notFound } from "next/navigation";
 import { ProductGallery } from "@/components/shop/ProductGallery";
 import { VariantPicker } from "@/components/shop/VariantPicker";
-import { getProductBySlug } from "@/lib/mock-data";
+import { getProductBySlug, mockProducts } from "@/lib/mock-data";
 
 type Props = {
   params: Promise<{ slug: string }>;
 };
+
+export function generateStaticParams() {
+  return mockProducts.map((product) => ({
+    slug: product.slug,
+  }));
+}
 
 export default async function ProductPage({ params }: Props) {
   const { slug } = await params;
