@@ -1,4 +1,4 @@
-:HL["/ivanefimenko795-mambo/_next/static/chunks/5d84b31fa7f088cf.css","style"]
+:HL["/_next/static/chunks/5d84b31fa7f088cf.css","style"]
 :HL["https://ultradruk.com/wp-content/uploads/2020/07/ultra-futbolka-muzhskaya-chernaya.png","image"]
 :HL["https://pullup.com.ua/wp-content/uploads/2024/05/futbolky-oversize-daral8.webp","image"]
 :HL["https://toptime.com.ua/photos/products/awjh003/awjh003_AWH-FN.jpg","image"]
@@ -38,4 +38,4 @@
 :HL["https://cdn.jolybell.com/images/BXowq1JiqhdCUSE.png?width=434&height=540&quality=90","image"]
 :HL["https://cdn.jolybell.com/images/tiftHI7hUjDaaWH.png?width=549&height=540&quality=90","image"]
 :HL["https://cdn.jolybell.com/images/Yrn1fZrn2jdiyc6.png?width=540&height=540&quality=90","image"]
-0:{"buildId":"zu5DC28Dc5I1FK2u-8CIh","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"catalog","paramType":null,"paramKey":"catalog","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"2OTQ_1ILkqsCVGPM-VV3r","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"catalog","paramType":null,"paramKey":"catalog","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
